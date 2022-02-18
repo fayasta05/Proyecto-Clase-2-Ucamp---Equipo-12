@@ -5,6 +5,35 @@
   box-sizing: border-box;
 }
 */
+
+/*Fuentes*/
+@import url("https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300;1,300&display=swap");
+* {
+  font-family: "Open Sans", sans-serif;
+}
+
+/*Imagenes*/
 img {
   width: 20%;
+}
+
+/*Tabla*/
+table {
+  margin-top: 50px;
+  margin-bottom: 20px;
+  border-collapse: collapse;
+}
+caption {
+  padding-bottom: 20px;
+  font-style: italic;
+}
+th {
+  background: linear-gradient(rgb(103, 103, 216), white, skyblue);
+}
+td,
+th {
+  border: 2px solid black;
+  padding-left: 20px;
+  padding-right: 20px;
+  padding-bottom: 10px;
 }
