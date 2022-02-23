@@ -89,6 +89,7 @@ th {
     left: 0;
     top: 0;
     width: 100%;
+    position: fixed;
     align-items: center;
     background-color: var(--menu-mobile-backround-color);
     height: 100%;
@@ -114,24 +115,22 @@ th {
     cursor: pointer;
     width: 150px;
     padding-top: 20px;
-    padding-left: 40px;¿
+    padding-left: 40px;
   }
-  .close-menu{
+  .close-menu {
     align-self: flex-end;
     padding-top: 50px;
     padding-left: 20px;
   }
   #Fabbio {
-  padding-right: 45px;
-}
-.menu-opened {
-opacity: 1;
-pointer-events: all;
-}
+    padding-right: 45px;
+  }
+  .menu-opened {
+    opacity: 1;
+    pointer-events: all;
+  }
   .open-menu:focus:not(:focus-visible),
   .close-menu:focus:not(:focus-visible) {
     outline: none;
   }
 }
-
-
