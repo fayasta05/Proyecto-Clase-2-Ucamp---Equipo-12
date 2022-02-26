@@ -206,3 +206,117 @@ caption {
 iframe {
   margin-left: 400px;
 }
+#Lu {
+  margin-top: 20px;
+  margin-left: 470px;
+  border-radius: 20px 10px 50px 30px;
+  -webkit-border-radius: 20px 10px 50px 30px;
+  -moz-border-radius: 20px 10px 50px 30px;
+  border: 10px double rgb(235, 135, 142);
+  width: 1000px;
+}
+.Lu__tittle {
+  display: inline-block;
+  justify-content: center;
+  font-size: 30px;
+  align-items: center;
+  margin-left: 400px;
+  background-color: whitesmoke;
+  box-shadow: 0 20px 25px -10px rgba(0, 0, 0, 0.5);
+  border-radius: 20px;
+  width: 200px;
+  height: 50px;
+  text-align: center;
+  line-height: 50px;
+}
+.Lu__text {
+  justify-content: center;
+  font-size: 20px;
+  background-color: whitesmoke;
+  box-shadow: 0 20px 25px -10px rgba(0, 0, 0, 0.5);
+  border-radius: 20px;
+  text-align: center;
+  padding-top: -20x;
+}
+.Lu_img {
+  margin-left: 390px;
+}
+#Chri {
+  margin-top: 20px;
+  margin-left: 20px;
+  border-radius: 20px 10px 50px 30px;
+  -webkit-border-radius: 20px 10px 50px 30px;
+  -moz-border-radius: 20px 10px 50px 30px;
+  border: 10px double rgb(235, 215, 135);
+  width: 1000px;
+}
+.Chri__tittle {
+  display: inline-block;
+  justify-content: center;
+  font-size: 30px;
+  align-items: center;
+  margin-left: 400px;
+  background-color: whitesmoke;
+  box-shadow: 0 20px 25px -10px rgba(0, 0, 0, 0.5);
+  border-radius: 20px;
+  width: 200px;
+  height: 50px;
+  text-align: center;
+  line-height: 50px;
+}
+.Chri__text {
+  justify-content: center;
+  font-size: 20px;
+  background-color: whitesmoke;
+  box-shadow: 0 20px 25px -10px rgba(0, 0, 0, 0.5);
+  border-radius: 20px;
+  text-align: center;
+  padding-top: -20x;
+}
+.Chri__img {
+  margin-left: 390px;
+}
+#Edu {
+  margin-top: 20px;
+  margin-left: 470px;
+  border-radius: 20px 10px 50px 30px;
+  -webkit-border-radius: 20px 10px 50px 30px;
+  -moz-border-radius: 20px 10px 50px 30px;
+  border: 10px double rgb(235, 135, 142);
+  width: 1000px;
+}
+.Edu__tittle {
+  display: inline-block;
+  justify-content: center;
+  font-size: 30px;
+  align-items: center;
+  margin-left: 400px;
+  background-color: whitesmoke;
+  box-shadow: 0 20px 25px -10px rgba(0, 0, 0, 0.5);
+  border-radius: 20px;
+  width: 200px;
+  height: 50px;
+  text-align: center;
+  line-height: 50px;
+}
+.Edu__text {
+  justify-content: center;
+  font-size: 20px;
+  background-color: whitesmoke;
+  box-shadow: 0 20px 25px -10px rgba(0, 0, 0, 0.5);
+  border-radius: 20px;
+  text-align: center;
+  padding-top: -20;
+}
+.Edu__img {
+  margin-left: 390px;
+}
+.Ste {
+  margin-top: 20px;
+  margin-left: 20px;
+  border-radius: 20px 10px 50px 30px;
+  -webkit-border-radius: 20px 10px 50px 30px;
+  -moz-border-radius: 20px 10px 50px 30px;
+  border: 10px double rgb(135, 235, 168);
+  width: 1000px;
+}
